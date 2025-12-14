@@ -1,0 +1,135 @@
+{
+   "DesktopUI" : {
+      "pairing" : "568,271,800,600,0",
+      "settings_desktop" : "605,193,800,600,0"
+   },
+   "DismissedWarnings" : {
+      "DismissableWarning_OpenXRDefaultRuntimePrompt" : true,
+      "DismissableWarning_WiredIndexControllerActivity_1477722273_LastDismissedTime" : "1761981921",
+      "DismissableWarning_WiredIndexControllerActivity_1477722273_LastShownTime" : "1761874305"
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 345,
+      "gpuSpeed1" : 345,
+      "gpuSpeed2" : 345,
+      "gpuSpeed3" : 345,
+      "gpuSpeed4" : 345,
+      "gpuSpeed5" : 345,
+      "gpuSpeed6" : 345,
+      "gpuSpeed7" : 345,
+      "gpuSpeed8" : 345,
+      "gpuSpeed9" : 345,
+      "gpuSpeedCount" : 10,
+      "gpuSpeedDriver" : "31.0.21923.1000",
+      "gpuSpeedHorsepower" : 345,
+      "gpuSpeedRenderTargetScale" : 0.39999997615814209,
+      "gpuSpeedVendor" : "AMD Radeon (TM) RX 580",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "ActualHMDDriver" : "lighthouse",
+      "HMDManufacturer" : "Valve",
+      "HMDModel" : "Index",
+      "HMDSerialNumber" : "LHR-0AE597EC"
+   },
+   "audio" : {
+      "enableRecordingDeviceOverride_Valve_Index" : true,
+      "lastHmdPlaybackDeviceId_Valve_Index" : "{0.0.0.00000000}.{b950440f-577d-4f71-911b-3923f45a4360}",
+      "recordingDeviceOverrideName_Valve_Index" : "CABLE-A Output (VB-Audio Cable A)",
+      "recordingDeviceOverride_Valve_Index" : "{0.0.1.00000000}.{78a6cdb5-fe62-448d-94ae-fa29b274dcaa}"
+   },
+   "camera" : {
+      "enableCamera" : true,
+      "enableCameraForCollisionBounds" : true,
+      "roomViewStyle" : 4
+   },
+   "collisionBounds" : {
+      "CollisionBoundsColorGammaA" : 255,
+      "CollisionBoundsColorGammaG" : 0,
+      "CollisionBoundsColorGammaR" : 168,
+      "CollisionBoundsFadeDistance" : 0.98490082456580064,
+      "CollisionBoundsGroundPerimeterOn" : true,
+      "CollisionBoundsWallHeight" : 3
+   },
+   "dashboard" : {
+      "lastAccessedExternalOverlayKey" : "valve.steam.desktopgame.1905180"
+   },
+   "driver_lighthouse" : {
+      "PowerManagedBaseStations2" : "LHB-F2265154:BS2:1,LHB-A14A45F8:BS2:1",
+      "indexHmdColumnOffset_AE597EC_L" : 0,
+      "indexHmdColumnOffset_AE597EC_R" : 0
+   },
+   "openvr.tool.steamvr_environments" : {
+      "motionSmoothingOverride" : 2
+   },
+   "perfcheck" : {
+      "allowTimingStore" : true,
+      "saveTimingsOnExit" : true
+   },
+   "steam.app.1011290" : {
+      "additionalFramesToPredict" : 3,
+      "framesToThrottle" : 0
+   },
+   "steam.app.1533390" : {
+      "additionalFramesToPredict" : 1,
+      "disableAsync" : false,
+      "fovScale" : 100,
+      "framesToThrottle" : 1,
+      "knuckles_250820_AutosaveURL_steamvrinput" : "vr-input-workshop://3564893675",
+      "knuckles_250820_NeedToUpdateAutosave_steamvrinput" : false,
+      "knuckles_250820_PreviousURL_steamvrinput" : "vr-input-workshop://3032902884",
+      "motionSmoothingOverride" : 2,
+      "resolutionScale" : 80,
+      "worldScale" : 1
+   },
+   "steam.app.438100" : {
+      "additionalFramesToPredict" : 4,
+      "disableAsync" : false,
+      "framesToThrottle" : 1,
+      "motionSmoothingOverride" : 3,
+      "resolutionScale" : 84,
+      "worldScale" : 0.80000001192092896
+   },
+   "steam.app.617830" : {
+      "additionalFramesToPredict" : 3,
+      "framesToThrottle" : 0,
+      "worldScale" : 0.91699999570846558
+   },
+   "steamvr" : {
+      "debugInputBinding" : true,
+      "displayPortTrainingMode" : 0,
+      "enableHomeApp" : false,
+      "globalActionSetPriority" : true,
+      "haveStartedTutorialForNativeChaperoneDriver" : true,
+      "installID" : "11581598750624575637",
+      "lastVersionNotice" : "2.14.4",
+      "lastVersionNoticeDate" : "1765312915",
+      "mirrorViewDisplayMode" : 2,
+      "mirrorViewEye" : 4,
+      "motionSmoothing" : false,
+      "preferredRefreshRate" : 144.00022888183594,
+      "showAdvancedSettings" : true,
+      "showMirrorView" : false,
+      "showPerfGraph" : true,
+      "supersampleManualOverride" : true,
+      "supersampleScale" : 0.78000000000000003
+   },
+   "system.generated.828.exe" : {
+      "additionalFramesToPredict" : 1,
+      "framesToThrottle" : 1,
+      "motionSmoothingOverride" : 2,
+      "resolutionScale" : 20
+   },
+   "system.generated.gorilla tag.exe" : {
+      "additionalFramesToPredict" : 1,
+      "framesToThrottle" : 1,
+      "knuckles_250820_AutosaveURL_steamvrinput" : "vr-input-workshop://3564294690",
+      "knuckles_250820_NeedToUpdateAutosave_steamvrinput" : false,
+      "knuckles_250820_PreviousURL_steamvrinput" : "vr-input-workshop://3564295127",
+      "motionSmoothingOverride" : 2,
+      "worldScale" : 0.94700002670288086
+   },
+   "trackers" : {
+      "/devices/00liv_virtualcamera/LIV Virtual Camera (Tracker)" : "TrackerRole_Camera"
+   }
+}
