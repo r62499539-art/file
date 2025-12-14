@@ -1,0 +1,57 @@
+{
+   "DesktopUI" : {
+      "pairing" : "568,271,800,600,0",
+      "settings_desktop" : "976,333,800,600,0"
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 345,
+      "gpuSpeed1" : 345,
+      "gpuSpeedCount" : 2,
+      "gpuSpeedDriver" : "31.0.21923.1000",
+      "gpuSpeedHorsepower" : 345,
+      "gpuSpeedRenderTargetScale" : 0.39999997615814209,
+      "gpuSpeedVendor" : "AMD Radeon (TM) RX 580",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "ActualHMDDriver" : "lighthouse",
+      "HMDManufacturer" : "Valve",
+      "HMDModel" : "Index",
+      "HMDSerialNumber" : "LHR-0AE597EC"
+   },
+   "audio" : {
+      "lastHmdPlaybackDeviceId_Valve_Index" : "{0.0.0.00000000}.{b950440f-577d-4f71-911b-3923f45a4360}"
+   },
+   "collisionBounds" : {
+      "CollisionBoundsColorGammaB" : 167
+   },
+   "driver_lighthouse" : {
+      "PowerManagedBaseStations2" : "LHB-F2265154:BS2:1,LHB-A14A45F8:BS2:1"
+   },
+   "openvr.tool.steamvr_environments" : {
+      "additionalFramesToPredict" : 1,
+      "framesToThrottle" : 1,
+      "motionSmoothingOverride" : 0
+   },
+   "perfcheck" : {
+      "allowTimingStore" : true,
+      "saveTimingsOnExit" : true
+   },
+   "steam.app.1533390" : {
+      "additionalFramesToPredict" : 1,
+      "framesToThrottle" : 1
+   },
+   "steamvr" : {
+      "debugInputBinding" : true,
+      "globalActionSetPriority" : true,
+      "installID" : "15822763775005302711",
+      "lastVersionNotice" : "2.14.4",
+      "lastVersionNoticeDate" : "1765312915",
+      "motionSmoothing" : false,
+      "preferredRefreshRate" : 144.00022888183594,
+      "showAdvancedSettings" : true
+   },
+   "trackers" : {
+      "/devices/00liv_virtualcamera/LIV Virtual Camera (Tracker)" : "TrackerRole_Camera"
+   }
+}
